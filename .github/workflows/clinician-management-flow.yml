@@ -41,7 +41,7 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: 'E-Care API Test Report - ${{ github.job }} - ${{ job.status }}'
           body: |
-            Hi Manager,
+            Hi Sainath,
 
             Please find the attached report for the E-Care API test run.
             The job status was ${{ job.status }}.
