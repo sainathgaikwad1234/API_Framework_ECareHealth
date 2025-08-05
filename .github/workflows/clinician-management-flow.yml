@@ -50,6 +50,6 @@ jobs:
 
             Thanks,
             Your Friendly Test Bot
-          to: your-manager@example.com
+          to: sainath.gaikwad@thinkitive.com
           from: GitHub Actions <actions@github.com>
           attachments: playwright-report.zip
